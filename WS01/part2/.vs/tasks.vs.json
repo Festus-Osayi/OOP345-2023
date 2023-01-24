@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "build part2",
+      "appliesTo": "/",
+      "type": "default",
+      "command": "g++",
+      "args": [
+        "-g",
+        "-o",
+        "part2",
+        "w1_p2.cpp",
+        "FoodOrder.cpp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Firstly, In regards to the external variables.The extern variable helped me to understand the difference between variables defined outside and inside 
+the block of a function, and it helps in linking global variable into various files. Which actually made it more convenience. Furthermore, 
+because external variables remain in existence permanently, rather than appearing and disappearing as functions are called and exited, they retain their values 
+even after the functions that set them have returned. Secondly, in addition to the static variable and how confusing it was at first because I didn't have no
+idea on how powerful static type variables was but with the explanation from the instructor, who made the concepts a lot easier to understand the use and how
+Static variables can also be declared at local scope. Additionally, he the "profeesor" alo elaborate that, Static duration means that the object or variable is allocated when the 
+program starts and is deallocated when the program ends. Lastly, I add a bit of struggle with the argument to main at first because it was a new concept to me,
+So, I had to watch some few tutorials which made the concept a bit clear and the professor brief explanation on it as well. So, I was able to overcome and grasp the 
+agrument to main concepts.
