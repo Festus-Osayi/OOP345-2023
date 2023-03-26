@@ -1,11 +1,3 @@
-/*
-Name: Faisal A Mohammed Abdulateef
-Seneca E-mail: fabdulateef@myseneca.ca
-Student ID: 163686215
-Class Section: OOP345 ZDD
-W2-P2
-*/
-
 #ifndef TIMEDTASK_H_
 #define TIMEDTASK_H_
 
