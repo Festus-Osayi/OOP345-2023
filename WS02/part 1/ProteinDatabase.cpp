@@ -1,3 +1,10 @@
+/*
+Name: Faisal A Mohammed Abdulateef
+Seneca E-mail: fabdulateef@myseneca.ca
+Student ID: 163686215
+Class Section: OOP345 ZDD
+W2-P1
+*/
 
 #include <iostream>
 #include <fstream>
